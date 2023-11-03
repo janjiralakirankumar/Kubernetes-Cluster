@@ -1,6 +1,6 @@
 ## Understanding Kubernetes Architecture and Performing a Kubernetes Installation Lab
 
-![image](https://github.com/janjiralakirankumar/Kubernetes-Cluster/assets/137407373/2155d435-4ffc-4831-991c-c6a38d13afe4)
+![image](https://github.com/janjiralakirankumar/Kubernetes-Cluster/assets/137407373/38c36d1f-88c1-4cd6-8531-8c18c8c3db9d)
 
 **Introduction:**
 
